@@ -22,9 +22,8 @@ scanf("%d",&n);
 for(i=0;i<=n;i++)
 {
   sum=sum+i;
-
 }
-  printf("The total summation is : %.2f",sum);
+   printf("The total summation is : %.2f",sum);
 
   return 0;
 }
